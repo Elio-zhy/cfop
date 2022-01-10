@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cfop/static/css/main.5b2cc09f.css",
+    "main.js": "/cfop/static/js/main.223ed8f8.js",
+    "index.html": "/cfop/index.html",
+    "main.5b2cc09f.css.map": "/cfop/static/css/main.5b2cc09f.css.map",
+    "main.223ed8f8.js.map": "/cfop/static/js/main.223ed8f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2cc09f.css",
+    "static/js/main.223ed8f8.js"
+  ]
+}
