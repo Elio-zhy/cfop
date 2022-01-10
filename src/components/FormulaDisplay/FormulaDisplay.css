@@ -1,0 +1,18 @@
+.formula-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px 0 20px;
+    background: #fff;
+    border-radius: 10px;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+}
+
+.formula-container p {
+    font-family: inherit;
+    font-size: 17px;
+    font-weight: 900;
+    pointer-events: none;
+    user-select: none;
+}

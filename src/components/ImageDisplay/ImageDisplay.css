@@ -1,0 +1,15 @@
+.image-container {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 20px;
+    flex-direction: column;
+    user-select: none;
+}
+
+.image-container img {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
